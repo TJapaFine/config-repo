@@ -4,3 +4,7 @@ amazon:
       service-endpoint: http://localhost:8000
       access-key: fakekey
       secret-key: fakesecret
+    
+    kafka:
+      server-config: localhost:29092
+      group-id: terraesa
